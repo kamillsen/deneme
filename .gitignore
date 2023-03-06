@@ -1,0 +1,11 @@
+#version kontrol sisteminin görmesini istemediğimz dosyaları veya türlerini buraya yazarı ki görmesin
+
+
+
+# img
+*.jpg
+*.png
+
+
+#videos
+*.mp4
