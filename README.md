@@ -1,11 +1,18 @@
-# Deneme
-## Readme dosyası proje ile ilgili bilgi vermek için kullanılır
+# Başlık 1
+## Başlık 2.. 
 
-## Alt Bilgi
-nffnaıf feknfofıns
-efnpeofsp fknsepospeg
+*italic* 
+**bold**
+***boldItalic***
 
-[lorem ipsum](http://google.com)
+- Liste Elemanı
+- Liste Elemanı
+- Liste Elemanı
 
+Link:
+[Yazi](url)
+[Kodluyoruz](https://www.kodluyoruz.org/)
 
-
+Image/Gorsel:
+![Aciklama Bilgisi](url)
+![Lorem Picsum](https://picsum.photos/200/300)
